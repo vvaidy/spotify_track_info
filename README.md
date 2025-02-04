@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## TODO AND FORTHCOMING
 
-Adding analysis of BPM and Danceability scores courtesy of the wonderful fols at [GetSongBPM.com](https://www.GetSongBPM.com)
+Adding analysis of BPM and Danceability scores courtesy of the wonderful folks at [GetSongBPM.com](https://www.GetSongBPM.com)
 
 They generously offer free API Keys at https://getsongbpm.com/api on request!
 
